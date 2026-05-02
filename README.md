@@ -41,13 +41,13 @@ End-to-end analysis of 4 years of daily delivery data from Munich. Covers SLA pe
 ---
 
 ### Data Analytics Portfolio
-Professional data analytics projects showcasing SQL, Python, Power BI and machine learning techniques.
+Basic Data analytics projects showcasing SQL, Python, Power BI and machine learning techniques.
 [View Portfolio](https://github.com/Keshav0781/Data-Analytics-Portfolio)
 
 ---
 
 ### Data Science Portfolio
-Machine learning, deep learning and AI projects with Python.
+Machine learning, deep learning and AI projects with Python for begineers.
 [View Portfolio](https://github.com/Keshav0781/Data-Science-Portfolio)
 
 ---
@@ -60,6 +60,6 @@ Automated retinal disease analysis using deep learning for multi-class biomarker
 
 ## Connect With Me
 
-- LinkedIn: www.linkedin.com/in/your-linkedin
+- LinkedIn: [www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/keshav-jha-11899b255/)
 - Email: iamkeshav0781@gmail.com
 - Location: Erlangen, Germany

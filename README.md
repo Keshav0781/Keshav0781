@@ -47,7 +47,7 @@ Basic Data analytics projects showcasing SQL, Python, Power BI and machine learn
 ---
 
 ### Data Science Portfolio
-Machine learning, deep learning and AI projects with Python for begineers.
+Machine learning, deep learning and AI projects with Python for beginners.
 [View Portfolio](https://github.com/Keshav0781/Data-Science-Portfolio)
 
 ---
@@ -60,6 +60,6 @@ Automated retinal disease analysis using deep learning for multi-class biomarker
 
 ## Connect With Me
 
-- LinkedIn: [www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/keshav-jha-11899b255/)
+- LinkedIn: https://www.linkedin.com/in/keshav-jha-11899b255/
 - Email: iamkeshav0781@gmail.com
 - Location: Erlangen, Germany

@@ -10,7 +10,7 @@ My current focus is production AI engineering: building systems that work end to
 
 ## Skills
 
-Python is my primary language. On the AI engineering side: LangChain, ChromaDB, sentence-transformers, FastAPI, Docker, GCP Cloud Run, BigQuery. On the deep learning side: PyTorch, U-Net, nnU-Net, SAM, LoRA adapters via HuggingFace PEFT. For analytics and forecasting: Pandas, Scikit-learn, Prophet, Statsmodels, Power BI, SQL. Cloud experience across GCP and Azure, with hands-on BigQuery work both at Accenture and in personal projects.
+Python is my primary language. On the AI engineering side: LangChain, ChromaDB, sentence-transformers, FastAPI, Docker, GCP Cloud Run, BigQuery. On the deep learning side: PyTorch, U-Net, nnU-Net, SAM, LoRA adapters. For analytics and forecasting: Pandas, Scikit-learn, Prophet, Statsmodels, Power BI, SQL. Cloud experience across GCP and Azure, with hands-on BigQuery work both at Accenture and in personal projects.
 
 <br>
 

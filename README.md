@@ -10,11 +10,30 @@ My current focus is production AI engineering: building systems that work end to
 
 ## Skills
 
-Python is my primary language. On the AI engineering side: LangChain, ChromaDB, sentence-transformers, FastAPI, Docker, GCP Cloud Run, BigQuery. On the deep learning side: PyTorch, U-Net, nnU-Net, SAM, LoRA adapters. For analytics and forecasting: Pandas, Scikit-learn, Prophet, Statsmodels, Power BI, SQL. Cloud experience across GCP and Azure, with hands-on BigQuery work both at Accenture and in personal projects.
+Python is my primary language. On the AI engineering side: LangGraph, LangChain, ChromaDB, sentence-transformers, FastAPI, Docker, GCP Cloud Run, BigQuery, Pub/Sub, Terraform, Ragas. On the deep learning side: PyTorch, U-Net, nnU-Net, SAM, LoRA adapters. For analytics and forecasting: Pandas, Scikit-learn, Prophet, Statsmodels, Power BI, SQL. Cloud experience across GCP and Azure, with hands-on BigQuery work both at Accenture and in personal projects.
 
 <br>
 
 ## Projects
+
+### MedFlow Referral Agent: Clinical Referral AI System
+
+A production-grade multi-agent AI system built for LMU Klinikum Munich that automatically processes patient referral PDFs and routes them to the correct hospital department, classifies urgency, and generates a clinical summary for coordinator review. The coordinator reviews every AI decision before any action is taken — AI assists, never decides.
+
+The pipeline runs as a LangGraph graph with five nodes: PDF extraction via PyMuPDF, department routing using ChromaDB RAG and Gemini, urgency classification using ChromaDB RAG and Gemini, escalation check for Emergency cases, and clinical summary generation. Emergency cases trigger an immediate escalation alert before the coordinator has even reviewed the document. All coordinator decisions — Approve, Edit, or Reject — are logged to BigQuery for full clinical audit trail compliance.
+
+The system is deployed across three isolated environments on GCP Cloud Run with a full CI/CD pipeline. Every push runs 43 automated tests. Staging deployment requires a Ragas accuracy gate — routing accuracy above 90% and urgency accuracy above 95% — before promotion. Production deployments require manual approval.
+
+**Tech Stack:** Python, LangGraph, gemini-2.5-flash, ChromaDB, FastAPI, PyMuPDF, GCP Cloud Run, Pub/Sub, BigQuery, Terraform, GitHub Actions, Ragas
+
+**Live Demo:**
+- Dev: https://medflow-referral-agent-dev-togzrymjsq-ey.a.run.app
+- Staging: https://medflow-referral-agent-staging-togzrymjsq-ey.a.run.app
+- Production: https://medflow-referral-agent-prod-togzrymjsq-ey.a.run.app
+
+[View on GitHub](https://github.com/Keshav0781/medflow-referral-agent)
+
+<br>
 
 ### ClinicalRAG: Intelligent Document Search System
 

@@ -1,10 +1,10 @@
 # Keshav Jha
 
-**AI Engineer and Data Scientist** based in Erlangen, Germany, with an M.Sc. in Data Science from Friedrich-Alexander University Erlangen-Nuremberg.
+**AI Engineer** based in Erlangen, Germany, with an M.Sc. in Data Science from Friedrich-Alexander University Erlangen-Nuremberg.
 
-I have spent most of my career working at the intersection of data, analytics, and engineering. At Accenture I worked as a Senior Software Engineer for 4.5 years on BestBuy's order management and retail analytics: analysing order lifecycles across Sterling OMS, building Power BI dashboards consumed daily by operations teams, migrating analytical workflows to BigQuery during BestBuy's GCP adoption, and translating order pattern analysis into inventory and procurement recommendations. At Siemens Healthineers I worked part-time on machine learning models, data pipelines, and AI-driven solutions for medical imaging during my Master's studies.
+I have spent most of my career working at the intersection of data, analytics, and engineering. At Accenture I worked as a Senior Software Engineer for 4 years 7 months on BestBuy's order management, delivering OMS solutions on IBM Sterling Order Management System and IBM Sterling Commerce, sustaining 80,000+ daily orders with zero critical outages across Black Friday and Cyber Monday peaks. At Siemens Healthineers I worked as an AI Engineer (Working Student) building enterprise RAG semantic search over 5,000+ R&D documents, agentic workflows using LangGraph, and LLM-based summarisation pipelines using LangChain, Qdrant and Azure OpenAI.
 
-My current focus is production AI engineering: building systems that work end to end, from the retrieval architecture to the cloud deployment. I am also interested in data science and data analytics roles where the emphasis is on turning complex data into decisions that matter.
+My current focus is production AI engineering: building systems that work end to end, from the retrieval architecture to the cloud deployment. I am also interested in data science, data analytics, and senior software engineering roles where the emphasis is on turning complex data into decisions that matter.
 
 <br>
 
@@ -45,7 +45,7 @@ The Docker setup uses a multi-stage build with a non-root user and went through 
 
 **Tech Stack:** Python, FastAPI, ChromaDB, LangChain, Groq (Llama 3.3 70B), Docker, GCP Cloud Run, BigQuery
 
-**Live API:** https://clinical-rag-service-324111066236.europe-west1.run.app/docs
+**Live API:** https://clinical-rag-service-324111066236.europe-west1.run.app/
 
 [View on GitHub](https://github.com/Keshav0781/clinical-rag)
 
@@ -89,4 +89,4 @@ The structure of this analysis reflects the kind of work done at Accenture on Be
 
 **LinkedIn:** https://www.linkedin.com/in/keshav-jha-11899b255/
 
-**Email:** iamkeshav0781@gmail.com
+**Email:** itskeshavjha1996@gmail.com

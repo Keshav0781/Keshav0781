@@ -2,7 +2,7 @@
 
 **AI Engineer and Data Scientist** based in Erlangen, Germany, with an M.Sc. in Data Science from Friedrich-Alexander University Erlangen-Nuremberg.
 
-I have spent most of my career working at the intersection of data, analytics, and engineering. At Accenture I worked as a Senior Analyst for 4.5 years on BestBuy's order management and retail analytics: analysing order lifecycles across Sterling OMS, building Power BI dashboards consumed daily by operations teams, migrating analytical workflows to BigQuery during BestBuy's GCP adoption, and translating order pattern analysis into inventory and procurement recommendations. At Siemens Healthineers I worked part-time on machine learning models, data pipelines, and AI-driven solutions for medical imaging during my Master's studies.
+I have spent most of my career working at the intersection of data, analytics, and engineering. At Accenture I worked as a Senior Software Engineer for 4.5 years on BestBuy's order management and retail analytics: analysing order lifecycles across Sterling OMS, building Power BI dashboards consumed daily by operations teams, migrating analytical workflows to BigQuery during BestBuy's GCP adoption, and translating order pattern analysis into inventory and procurement recommendations. At Siemens Healthineers I worked part-time on machine learning models, data pipelines, and AI-driven solutions for medical imaging during my Master's studies.
 
 My current focus is production AI engineering: building systems that work end to end, from the retrieval architecture to the cloud deployment. I am also interested in data science and data analytics roles where the emphasis is on turning complex data into decisions that matter.
 
